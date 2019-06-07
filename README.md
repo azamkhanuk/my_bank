@@ -1,5 +1,3 @@
 # README
 
-Send us your money.
-And we will double it.
-By magic.
+Using created currency, invest, save and send money to friends in this web app. 
